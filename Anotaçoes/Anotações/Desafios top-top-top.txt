@@ -1,0 +1,108 @@
+----------------------------------------------------------------------------------------------------
+Mod00 - DONE
+Desafios top-top-top
+
+
+Basico - DONE
+Criar a pasta do projeto na home com o nome de "Curso de HTML e CSS feliz".
+
+Intermediario - DONE
+Entrar no figma, e mudar as cores, fontes e brique com os recursos.
+
+Avançado - DONE
+Começar eh terminar o HTML do header "cabeçalho".
+
+----------------------------------------------------------------------------------------------------
+Mod01 - TO DO
+Desafios top-top-top
+
+Basico - DONE
+Mudar o logo e as cores do header.
+https://www.twitch.tv/player_dbr - LOGO / Extra
+
+Intermediario - DONE
+Quando passar o mouse enscima de "Download CV", ele tenha 1 comportamento diferete.
+DICA - Comportamento de over / pseudo classe.
+
+Avançado - 
+Hospedar o site com cabeçalho, usando git hub pages.
+
+----------------------------------------------------------------------------------------------------
+Mod02 - TO DO
+Desafios top-top-top
+
+Basico - 
+Committar o codigo no GitHub.
+
+Intermediario - 
+Fazer os botoes, baixo do titulo.
+DICA - usando classes, para impor o id.
+
+Avançado - 
+terminaar a parte do banner, é arrumar os elementos.
+DICA - estudar propriedade possition.
+
+----------------------------------------------------------------------------------------------------
+Mod03 - TO DO
+Desafios top-top-top
+
+Basico - 
+Impor o titulo da seção Skills, a cor de fundo é a borda roxa la embaixo.
+
+Intermediario - 
+Criar os elementos em Skills.
+
+Avançado - 
+Impor algo pra encher a barrinha, algum numero ETC, ou fazer com CSS / JS. é tambem arrumar o possisionamento certo dos elementos.
+
+----------------------------------------------------------------------------------------------------
+Mod04 - TO DO
+Desafios top-top-top
+
+Basico - 
+Criar o componente de imagem, na seção de Projetos.
+
+Intermediario - 
+Criar uma variação da seção que eu possa mudar, a cor do fundo, é a bordas.
+
+Avançado - 
+Mudar a refaturar/nomenclatura do CSS 
+
+----------------------------------------------------------------------------------------------------
+Mod05 - TO DO
+Desafios top-top-top
+
+Basico - 
+Criar o componente de texto da seção sobre.
+
+Intermediario - 
+Criar a seção sobre, por o texto / criar uma variação de section.
+
+Avançado - 
+Fazer o carrosel da seção sobre.
+
+----------------------------------------------------------------------------------------------------
+Mod06 - TO DO
+Desafios top-top-top
+
+Basico - 
+Fazer o rodape inteiro.
+
+Intermediario - 
+Fazer o formularo, fazer a estilização com CSS
+DICA - MDN FORM
+
+Avançado - 
+Fazer a validação do formulario, quando clicar no botao de enviar.
+DICA - todos os campos tem que estar preenchidos, eh o Email tem que ser um email vadio.
+
+----------------------------------------------------------------------------------------------------
+Mod07 - TO DO
+Desafios Final
+
+https://www.uplabs.com/posts/tool/figma
+UPlabs - sites para pegar layout para treinar Fornt-End
+
+Pegar pelomenso 2 layouts para fazer outro projeto enscima
+
+----------------------------------------------------------------------------------------------------
