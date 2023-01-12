@@ -1,6 +1,5 @@
 body {
     font-family: "Fira Code", Arial, Helvetica, sans-serif;
-	
 }
 
 body, h1, h2, h3 {
@@ -32,7 +31,7 @@ time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;
+	vertical-align: baseline;"
 } */
 
 /* ======= HTML5 display-role reset for older browsers ======= */
