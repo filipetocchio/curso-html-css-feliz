@@ -1,5 +1,5 @@
 .section {
-    background-color: #22D69D;
+    background-color: #FFF;
     padding-top: 50px;
     padding-bottom: 100px;
     border-bottom: 10px solid #5222A3;
@@ -7,4 +7,20 @@
 
 .section .main-title {
     margin-bottom: 60px;
+}
+
+.section.-skills {
+    background-color: #22D69D;
+}
+
+.section.-projetos {
+    background-color: #000;
+}
+
+.section.-sobre {
+    background-color: #5222A3;
+}
+
+.section.-contatos {
+    background-color: #3A4042;
 }
