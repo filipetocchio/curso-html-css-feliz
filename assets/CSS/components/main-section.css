@@ -2,7 +2,7 @@
     background-color: #FFF;
     padding-top: 50px;
     padding-bottom: 100px;
-    border-bottom: 10px solid #5222A3;
+    border-bottom: 10px solid #000;
 }
 
 .main-section .main-title {
@@ -11,14 +11,17 @@
 
 .main-section.-skills {
     background-color: #22D69D;
+    border-bottom: 10px solid #5222A3;
 }
 
 .main-section.-projetos {
     background-color: #000;
+    border-bottom: 10px solid #22D69D;
 }
 
 .main-section.-sobre {
     background-color: #5222A3;
+    border-bottom: 10px solid #000;
 }
 
 .main-section.-contatos {
